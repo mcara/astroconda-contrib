@@ -42,7 +42,7 @@ requirements:
     - pypdf2
     - pytables
     - tweakwcs
-    - numpy
+    - numpy=>1.18
     - python {{ python }}
     run:
     - acstools
