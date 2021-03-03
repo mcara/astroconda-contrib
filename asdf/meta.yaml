@@ -1,5 +1,5 @@
 {% set name = 'asdf' %}
-{% set version = '2.7.2' %}
+{% set version = '2.7.3' %}
 {% set number = '0' %}
 
 about:
